@@ -1,5 +1,5 @@
 .nav{
-    background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url(./B12A01-landing-launchpad/Assets/Hero-bg.png);
     
     
     padding-bottom: 30px;
@@ -121,7 +121,7 @@
 }
  .sect h1{
     text-align: center;
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 800;      
             
 
