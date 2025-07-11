@@ -263,10 +263,47 @@ form textarea {
   border-radius: 8px;
   padding: 14px;
   font-size: 16px;
-  cursor: pointer;
-  transition: background 0.3s ease;
+
+  
 }
 
 .btnn:hover {
   background-color: #a55f0f;
 }
+/* 7th */
+footer{
+      background-color: #fff;
+      height: 440PX;
+      max-width: auto;
+}
+.footer{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+
+}
+.Started{
+    text-align: center;
+
+}
+.service{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+
+}
+.Started h1{
+    font-size: 60px;
+    font-weight: 900;
+font-family: 'Poppins', sans-serif;
+color: #4E47FF;
+
+}
+.foot {
+  all: unset;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  color: #ccc;
+}
+
