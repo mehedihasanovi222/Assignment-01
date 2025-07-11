@@ -1,7 +1,11 @@
 .nav{
     background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
-    padding-bottom: 100px;  
-     
+    
+    
+    padding-bottom: 30px;
+
+
+
     
 }
 /* button*/
@@ -13,6 +17,10 @@
     padding: 20px;
     width: 150px;
     height: 50px;
+    white-space: nowrap;
+    text-align: center;
+
+    
 
 }
 .sign{
@@ -24,8 +32,7 @@
 .sign h1{
     font-size: 40px;
     font-weight: 700;
-    color: #4E47FF;
-
+    color: #807cff;
 }
 .full {
     display: flex;
@@ -39,4 +46,60 @@
     font-size: 40px; 
     font-weight: bold; 
 }
+/* section */
+.sec{
 
+    max-width: 1140px;
+    max-height: 328px;
+    margin: 137px 159px 127px 300px;
+}
+.sz{
+    max-width: 517px;
+    max-height: 203px;
+    margin: 62px 220px 63px 141px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.Action{
+    width: 403px;
+    height: 328px;
+    border-radius: 10px;
+}
+
+.cap{
+
+}
+.act{
+    font-size: 43px;
+}
+/* 3rd */
+.content{
+    background-color: #4d47ff2d;
+    width: 1140px;
+    height: 306px;
+    margin: 30px 350px;
+    border-radius: 24px;
+    text-align: center;
+}
+.center{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+.text-color{
+    font-size: 70px;
+    color: #4E47FF;
+}
+.about{
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 10px;
+
+}
+.item{
+ 
+   padding-bottom: 100000px;
+}
